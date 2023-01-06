@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/omgitscharly" target="blank"><img src="https://img.shields.io/twitter/follow/omgitscharly?logo=twitter&style=for-the-badge" alt="omgitscharly" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [bycarlosgamez.com](bycarlosgamez.com)
-
 - 📫 How to reach me **carlos.gamez.glez@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1lkxtwK7ETnOFdelMhXXca5c2RxjR-lml/edit?usp=sharing&ouid=113088627875175647832&rtpof=true&sd=true](https://docs.google.com/document/d/1lkxtwK7ETnOFdelMhXXca5c2RxjR-lml/edit?usp=sharing&ouid=113088627875175647832&rtpof=true&sd=true)

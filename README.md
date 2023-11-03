@@ -4,12 +4,12 @@ Hi! My name is Carlos
 Software Engineer
 -----------------
 
-I've been learning to code for 3 years, switching carrears from Product Design where I started to learn HTML, CSS and Javascript to build websites. I now focus in Software Development fulltime.
+I've been learning to code for 3 years, switching careers from Product Design where I started to learn HTML, CSS, and Javascript to build websites. I now focus on Design Technologists Roles and Creative Coding.
 
 * 🌍  I'm based in México
 * 🖥️  See my portfolio at [bycarlosgamez.com](http://bycarlosgamez.com)
 * ✉️  You can contact me at [carlos.gamez.glez@gmail.com](mailto:carlos.gamez.glez@gmail.com)
-* 🚀  I'm currently working on [BugBust (Bug tracking app)](http://github.com/bycarlosgamez/bugbust)
+* 🚀  I'm currently working on Design Systems
 * 🧠  I'm learning Vue.js
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I'm really into creative coding

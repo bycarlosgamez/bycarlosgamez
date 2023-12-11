@@ -10,7 +10,7 @@ I've been learning to code for 3 years, switching careers from Product Design wh
 * 🖥️  See my portfolio at [bycarlosgamez.com](http://bycarlosgamez.com)
 * ✉️  You can contact me at [carlos.gamez.glez@gmail.com](mailto:carlos.gamez.glez@gmail.com)
 * 🚀  I'm currently working on Design Systems
-* 🧠  I'm learning Vue.js
+* 🧠  I'm constantly learning new things
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I'm really into creative coding
 

@@ -1,10 +1,12 @@
 Hi! My name is Carlos
 =======================
 
-Software Engineer
+Design Technologist
 -----------------
+I'm a skilled Design Technologist with a Product Design background. I love working at the intersection of Design and Development, especially at the point where Art meets Technology.
 
-I've been learning to code for 3 years, switching careers from Product Design where I started to learn HTML, CSS, and Javascript to build websites. I now focus on Design Technologists Roles and Creative Coding.
+I love learning new technologies like AI and its impact on design and software.
+
 
 * 🌍  I'm based in México
 * 🖥️  See my portfolio at [bycarlosgamez.com](http://bycarlosgamez.com)

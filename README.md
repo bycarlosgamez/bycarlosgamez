@@ -1,9 +1,9 @@
 Hi! My name is Carlos
 =======================
 
-Design Technologist
+Design Engineer
 -----------------
-I'm a skilled Design Technologist with a Product Design background. I love working at the intersection of Design and Development, especially at the point where Art meets Technology.
+I'm a skilled Design Engineer with a Product Design background. I love working at the intersection of Design and Development, especially at the point where Art meets Technology.
 
 I love learning new technologies like AI and its impact on design and software.
 
